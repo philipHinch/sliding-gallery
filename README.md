@@ -6,8 +6,7 @@ Just a simple sliding image gallery.
 * CSS
 * JAVASCRIPT
 
-Check Out Project - automatic!
-[GitHub](https://philiphinch.github.io/sliding-gallery/)
+[Check Out Project](https://philiphinch.github.io/sliding-gallery/)
 
 
 
