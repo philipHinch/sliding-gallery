@@ -8,5 +8,8 @@ Just a simple sliding image gallery.
 
 [Check Out Project](https://philiphinch.github.io/sliding-gallery/)
 
+![GitHub Logo](/images/preview.png)
+Format: ![Alt Text](url)
+
 
 
